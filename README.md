@@ -29,19 +29,30 @@ ____   ____       __                 .__      _________.__           .__
   Hey! I'm <strong>Vatsal Shah</strong>, coding from India.<br>
   Obsessed with <span title="Artificial Intelligence">🤖 AI</span>, <span title="Machine Learning">🧠 ML</span>, and <span title="Web Development">🌐 Web Apps</span>.<br><br>
   <b>Currently:</b> Building innovative apps, exploring new tech, and collaborating on impactful projects.<br><br>
-  <i>Fun fact:</i> I like to experiment with futuristic UI designs and neon aesthetics! 🌟
+<!--   <i>Fun fact:</i> I like to experiment with futuristic UI designs and neon aesthetics! 🌟 -->
 </p>
 
+<!-- GitHub Stats -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/V-A-T-S-A-L/assets/main/gradient-divider.svg" width="85%" height="15px" alt="Divider"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=V-A-T-S-A-L&show_icons=true&theme=tokyonight&count_private=true" />
 </p>
+
+<!-- Top Languages -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=V-A-T-S-A-L&layout=compact&theme=tokyonight" />
+</p>
+
+<!-- Streak Stats -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=V-A-T-S-A-L&theme=tokyonight" />
+</p>
+
 
 <!-- 🏅 ACHIEVEMENTS -->
 <h2 align="center" style="background: linear-gradient(90deg,#00FFA3,#FF4AD0);-webkit-background-clip:text;color:transparent;">🏅 Achievements</h2>
 <ul>
-  <li>🥇 Winner: Smart Campus Hackathon - AI Task Automation</li>
-  <li>💻 Contributor to multiple open-source ML projects</li>
-  <li>🎤 Speaker at local tech meetups & workshops</li>
+  <li>🥇 Finalist at HackDeck '24 - a 24 hour hackathon organized by Atharva College of Engineering.</li>
+  <li>🥇 Top 8 at SynTechXathon '25 - a 3 day hackathon organized by RD&SH National College.</li>
 </ul>
 
 <!-- 🐍 CONTRIBUTION SNAKE -->
@@ -55,19 +66,19 @@ ____   ____       __                 .__      _________.__           .__
 <h2 align="center" style="background: linear-gradient(90deg,#00FFA3,#FF4AD0);-webkit-background-clip:text;color:transparent;">🚀 Featured Projects</h2>
 
 <p align="center">
-  <a href="https://github.com/yourusername/NeonAI">
-    <img src="https://img.shields.io/badge/NeonAI-00FFA3?style=for-the-badge&logo=python&logoColor=white&labelColor=23272F">
+  <a href="https://github.com/V-A-T-S-A-L/coding-platform">
+    <img src="https://img.shields.io/badge/Code Busters-00FFA3?style=for-the-badge&logo=javascript&logoColor=white&labelColor=23272F">
   </a>
   <br>
-  <span>AI-powered productivity assistant for students & professionals.<br><b>Tech:</b> Python, Streamlit, ML models</span>
+  <span>Competitive Coding Platform with custom room creation<br><b>Tech:</b> React, Node, Express, MySQL, Judge0</span>
 </p>
 <br>
 <p align="center">
-  <a href="https://github.com/yourusername/GlitchWeb">
-    <img src="https://img.shields.io/badge/GlitchWeb-FF4AD0?style=for-the-badge&logo=next.js&logoColor=white&labelColor=23272F">
+  <a href="https://github.com/V-A-T-S-A-L/AI-Learning-Platform">
+    <img src="https://img.shields.io/badge/CardGenX-FF4AD0?style=for-the-badge&logo=next.js&logoColor=white&labelColor=23272F">
   </a>
   <br>
-  <span>NextJS platform for creative portfolios & web apps.<br><b>Tech:</b> Next.js, Node.js, Tailwind CSS</span>
+  <span>AI based tool to enhance learning experience<br><b>Tech:</b> Next.js, Supabase, Gemini API</span>
 </p>
 
 <p align="center">
@@ -75,22 +86,27 @@ ____   ____       __                 .__      _________.__           .__
 </p>
 
 <!-- 🛠️ TECH STACK -->
-<h2 align="center" style="background: linear-gradient(90deg,#00FFA3,#FF4AD0);-webkit-background-clip:text;color:transparent;">🛠️ Tech Stack</h2>
-<p align="center" style="display:flex; flex-wrap:wrap; gap:3px; justify-content:center;">
-  <img src="https://img.shields.io/badge/-React-23272F?style=for-the-badge&logo=react&logoColor=00FFA3" title="React"/>
-  <img src="https://img.shields.io/badge/-NextJS-23272F?style=for-the-badge&logo=next.js&logoColor=FF4AD0" title="Next.js"/>
-  <img src="https://img.shields.io/badge/-Python-23272F?style=for-the-badge&logo=python&logoColor=00FFA3" title="Python"/>
+<h2 align="center">⚡ Tech Stack</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/-Java-23272F?style=for-the-badge&logo=openjdk&logoColor=00FFA3" title="Java"/>
+  <img src="https://img.shields.io/badge/-SpringBoot-23272F?style=for-the-badge&logo=springboot&logoColor=FF4AD0" title="Spring Boot"/>
+  <img src="https://img.shields.io/badge/-JavaScript-23272F?style=for-the-badge&logo=javascript&logoColor=00FFA3" title="JavaScript"/>
+  <img src="https://img.shields.io/badge/-Python-23272F?style=for-the-badge&logo=python&logoColor=00FFA3" title="JavaScript"/>
+  <img src="https://img.shields.io/badge/-React-23272F?style=for-the-badge&logo=react&logoColor=FF4AD0" title="React"/>
+  <img src="https://img.shields.io/badge/-Next.js-23272F?style=for-the-badge&logo=next.js&logoColor=00FFA3" title="Next.js"/>
   <img src="https://img.shields.io/badge/-Node.js-23272F?style=for-the-badge&logo=node.js&logoColor=FF4AD0" title="Node.js"/>
-  <img src="https://img.shields.io/badge/-MongoDB-23272F?style=for-the-badge&logo=mongodb&logoColor=00FFA3" title="MongoDB"/>
+  <img src="https://img.shields.io/badge/-Express-23272F?style=for-the-badge&logo=express&logoColor=00FFA3" title="Express"/>
+  <img src="https://img.shields.io/badge/-MongoDB-23272F?style=for-the-badge&logo=mongodb&logoColor=FF4AD0" title="MongoDB"/>
+  <img src="https://img.shields.io/badge/-SQL-23272F?style=for-the-badge&logo=mysql&logoColor=00FFA3" title="SQL"/>
   <img src="https://img.shields.io/badge/-PostgreSQL-23272F?style=for-the-badge&logo=postgresql&logoColor=FF4AD0" title="PostgreSQL"/>
 </p>
+
 
 <!-- 📬 CONTACT -->
 <h2 align="center" style="background: linear-gradient(90deg,#00FFA3,#FF4AD0);-webkit-background-clip:text;color:transparent;">📬 Let's Connect</h2>
 <p align="center">
-  <a href="mailto:yourmail@example.com"><img src="https://img.shields.io/badge/Email-00FFA3?style=for-the-badge&logo=gmail&logoColor=white&labelColor=23272F" /></a>
-  <a href="https://www.linkedin.com/in/yourprofile/"><img src="https://img.shields.io/badge/LinkedIn-FF4AD0?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=23272F" /></a>
-  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-00FFA3?style=for-the-badge&logo=vercel&logoColor=white&labelColor=23272F" /></a>
+  <a href="mailto:vatsalshah004@example.com"><img src="https://img.shields.io/badge/Email-00FFA3?style=for-the-badge&logo=gmail&logoColor=white&labelColor=23272F" /></a>
+  <a href="https://linkedin.com/in/vatsal-shah-1324132b5/"><img src="https://img.shields.io/badge/LinkedIn-FF4AD0?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=23272F" /></a>
 </p>
 
 <p align="center">
